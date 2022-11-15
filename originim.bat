@@ -1,0 +1,1 @@
+start C:\"Program Files"\OriginLab\Origin2017\Origin94_64.exe -r {impasc %1;plotgroup iy:=(A,B) type:=line template:=LINE2}
