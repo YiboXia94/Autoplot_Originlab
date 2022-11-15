@@ -1,4 +1,4 @@
-# Double-click the data file and automatically generate a line graph in Originlab
+# Double-click the data file and automatically plot in Originlab
 
 ### This is a script that allows you to skip selecting the data column and draw simple graphics directly.
 Open a text and input:
